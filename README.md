@@ -4,7 +4,10 @@
 
 * For the above task, VGGNet - a single network architecture was used. 
 
-- results from training the architecture.
-<img src="emo-result.png"></img>
+<p>
+    <img src="emo-result.png" alt>
+    <em>image_caption</em>
+</p>
+
 
 * To demonstrate the effectiveness of the model, It was deployed using streamlit to show how the model is able to perform in real time, using the live feed given by the webcam on a local host.
