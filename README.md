@@ -6,7 +6,7 @@
 
 <p>
     <img src="emo-result.png" alt>
-    <em>results from training the architecture on test set</em>
+    <em>results on test set after training</em>
 </p>
 
 
